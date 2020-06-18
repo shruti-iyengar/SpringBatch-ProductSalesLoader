@@ -1,0 +1,6 @@
+MySQL Create Table script 
+
+create table employee.billing(
+quantity INT NOT NULl,
+unit_price INT NOT NULL
+);
